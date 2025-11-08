@@ -13,4 +13,5 @@ public class DocumentoPDF extends Documento {
     public void exportar(String contenido) {
         System.out.println("Exportando contenido a PDF: " + contenido);
     }
+    
 }
