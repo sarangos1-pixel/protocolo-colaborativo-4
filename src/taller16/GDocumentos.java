@@ -12,4 +12,5 @@ public class GDocumentos {
     public void exportarDocumento(Documento exportador, String contenido) {
         exportador.exportar(contenido);
     }
+    
 }
