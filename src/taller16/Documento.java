@@ -10,4 +10,5 @@ package taller16;
  */
 public abstract class Documento {
     public abstract void exportar(String contenido);
+    
 }
